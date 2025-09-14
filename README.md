@@ -336,11 +336,6 @@ ENTRYPOINT ["dotnet", "stokTakip.dll"]
 
 Bu proje **MIT License** altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-## 📞 Destek
-
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: support@example.com
 
 ## 🙏 Teşekkürler
 
@@ -351,10 +346,3 @@ Bu proje **MIT License** altında lisanslanmıştır. Detaylar için [LICENSE](L
 
 ---
 
-<div align="center">
-
-**⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
-
-Made with ❤️ by [Your Name]
-
-</div>
